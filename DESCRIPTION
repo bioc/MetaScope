@@ -2,7 +2,7 @@ Type: Package
 Package: MetaScope
 Title: Tools and functions for preprocessing 16S and metagenomic
     sequencing microbiome data
-Version: 2.0.0
+Version: 2.1.0
 Authors@R: c(
     person("Sean", "Lu", , "seanlu96@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0007-8005-6125")),
